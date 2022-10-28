@@ -1,12 +1,12 @@
-# Code editors
+# Алати за уређивање кода
 
-A code editor is the place where programmers spend most of their time.
+Алат за уређивање кода је место где програмери проводе највише свог времена.
 
-There are two main types of code editors: IDEs and lightweight editors. Many people use one tool of each type.
+Постоје два основна типа алата за уређивање кода: Интегрисана развојна окружења (ИРО) и лаки уређивачи. Многи људи користе по једну алатку из оба типа.
 
-## IDE
+## ИРО
 
-The term [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) (Integrated Development Environment) refers to a powerful editor with many features that usually operates on a "whole project." As the name suggests, it's not just an editor, but a full-scale "development environment."
+Термин [ИРО](https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%B8%D1%81%D0%B0%D0%BD%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D1%98%D0%BD%D0%BE_%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D1%9A%D0%B5) (Интегрисано Развојно Окружење) односи се на моћни уређивачки алат са мноштвом могућности које најчешће управљају "целокупним пројектом". Као што име наговештава, то није само уређивачки алат, већ потпуно "развојно окружење".
 
 An IDE loads the project (which can be many files), allows navigation between files, provides autocompletion based on the whole project (not just the open file), and integrates with a version management system (like [git](https://git-scm.com/)), a testing environment, and other "project-level" stuff.
 
